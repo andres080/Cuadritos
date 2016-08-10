@@ -1,0 +1,10 @@
+/*Todos los atributos de las cajitas*/
+.littleBox{
+	height:100px;
+	width:100px;
+	border:solid red 4px;
+	background-color:white;
+	text-align: center;
+	line-height: 100px;
+	float: left;
+}
